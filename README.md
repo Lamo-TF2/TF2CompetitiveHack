@@ -50,6 +50,36 @@ Thalash is a great example of what not to do. DO NOT ALWAYS HAVE IT ON. It annoy
 2. Getting very dumb kills with it.
 The Most obvious combo is the ESP and Triggerbot.
 PLEASE do not look through a wall and "randomly" place your crosshair next to a wall and respond in under a millisecond.
+its dum.
+
+Auto Backstab can be turned on but is very easy to spot.
+
+Auto Airblast is something that you should have a key for. If you are spreading at
+1. a soldier
+2. a demo
+3. a soldier and demo
+Turn the key on, and any sudden airblasts can be met with prediction.
+DO NOT turn it on when you are spreading at
+1. a group of people including both hitscan and not histcan
+2. someone who has hitscan only.
+It is really obvious when you reflect a projectile that was on the side of you randomly.
+Smooth out the aim, but it doesn't really matter.
+
+# Clean Screenshots
+All competitive TF2 leagues require a screnshot at the end of each map. Do yourself a favor and don't have a picture showing off
+your dank hacks.
+
+# DIY (essential for streaming)
+Download the source and search for all instances of LaMAyObox. Delete everything that popus up in the screen and console when injecting.
+If you are streaming, don't turn on ESP, and set up your settings befor turning on the stream. 
+Worse than getting banned is getting exposed on twitch.
+
+# Final note for any League admins.
+Once the code comes out, feel free to contact me. If enough leagues contact me to stop the development of this cheat, I'll stop it.
+However, I am also currently working on a document to help detect other cheaters. If you would like a copy of that, I'll be glad 
+to send it to you (once I am done).
+
+# Enjoy and compile this yourself
 
 
 
