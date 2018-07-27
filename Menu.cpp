@@ -35,7 +35,6 @@ void Menu::Init()
 	AimbotTab->AddControl(new CCheckBox(L"Hitscan", &gCvars.aimbot_hitscan));
 	AimbotTab->AddControl(new CCombo(&gCvars.aimbot_key, { L"Always", L"Mouse 1", L"Mouse 2", L"Mouse 3", L"Mouse 4", L"Mouse 5", L"Shift", L"Alt", L"F" }));
 	AimbotTab->AddControl(new CSlider<int>(L"Smooth", 0, 180, &gCvars.aimbot_smooth));
-	AimbotTab->AddControl(new CCheckBox(L"Ignore Cloak", &gCvars.aimbot_ignore_cloak));
 	AimbotTab->AddControl(new CCheckBox(L"Ignore Disguise", &gCvars.aimbot_ignore_disguise));
 	AimbotTab->AddControl(new CCheckBox(L"Ignore Taunt", &gCvars.aimbot_ignore_taunt));
 	AimbotTab->AddControl(new CCheckBox(L"Zoomed Only", &gCvars.aimbot_zoomedonly));
