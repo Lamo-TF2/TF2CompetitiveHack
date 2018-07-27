@@ -4,6 +4,8 @@ This is a cheat that is optimized for competitive TF2. This is not good for hvh 
 # Settings
 This is a guide on which settings to use to perhaps never get detected, both by VAC, and by competition admins
 
+https://youtu.be/VdPfU-_dsUw
+
 # Junk Code
 Search up junk code or go to sites such as https://junkcode.gehaxelt.in/ to find junk code.
 Make sure your code isn't being optimized because if it is, the junk code gets ignored.
