@@ -47,6 +47,6 @@ void CTriggerbot::Run(CBaseEntity* pLocal, CUserCmd* pCommand)
 
 	if (gCvars.triggerbot_headonly && trace.hitbox != 0)
 		return;
-
+	Sleep(40);
 	pCommand->buttons |= IN_ATTACK;
 }
