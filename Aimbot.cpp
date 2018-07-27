@@ -365,8 +365,7 @@ int CAimbot::GetBestTarget(CBaseEntity* pLocal, CUserCmd* pCommand)
 			pEntity->GetCond() & TFCond_Bonked)
 			continue;
 
-		if (gCvars.aimbot_ignore_cloak
-			&& (pEntity->GetCond() & TFCond_Cloaked))
+		if (pEntity->GetCond() & TFCond_Cloaked)
 			continue;
 		if (gCvars.aimbot_ignore_disguise
 			&& (pEntity->GetCond() & TFCond_Disguised))
