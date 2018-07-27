@@ -12,6 +12,7 @@ Put junk code in different .cpp files around the cheat, especially the hack file
 # VMProtect
 Use a cracked version of VMProctect to protect the cheat even more.
 
+VMProtect your injector as well.
 Using these 1st 2 tips will make your cheat undetected from VAC, especially since you are the one making your cheat unique.
 
 # Aimbot
